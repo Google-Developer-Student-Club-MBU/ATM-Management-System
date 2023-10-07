@@ -2,8 +2,8 @@
 Welcome to the ATM Management System project in Java. This project is a console-based simulation of an Automated Teller Machine (ATM) system, offering a user-friendly interface for customers to access and manage their bank accounts securely.
 
 # Introduction
-          In today's fast-paced world, ATMs have become an integral part of our daily lives, providing convenient access to banking services 24/7. The ATM Management System project aims to replicate the core functionalities of a real-world ATM, facilitating transactions such as withdrawals, deposits, balance inquiries, PIN changes, and transaction history tracking.
-          This project serves as an educational tool for aspiring Java developers to gain hands-on experience in building interactive and robust software systems. By diving into this project, you'll have the opportunity to explore key Java programming concepts, including object-oriented design, user input handling, data management, and error handling.
+In today's fast-paced world, ATMs have become an integral part of our daily lives, providing convenient access to banking services 24/7. The ATM Management System project aims to replicate the core functionalities of a real-world ATM, facilitating transactions such as withdrawals, deposits, balance inquiries, PIN changes, and transaction history tracking.
+This project serves as an educational tool for aspiring Java developers to gain hands-on experience in building interactive and robust software systems. By diving into this project, you'll have the opportunity to explore key Java programming concepts, including object-oriented design, user input handling, data management, and error handling.
 
 # Features
 User Authentication: The ATM Management System ensures the security of customers' accounts through robust user authentication, requiring a valid account number and a four-digit Personal Identification Number (PIN).
